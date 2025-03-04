@@ -458,12 +458,12 @@ VALUES
     ('SE101_CLO3', 'SE101', 3, 'Understand software engineering principles'),
     ('SE101_CLO4', 'SE101', 4, 'Develop small-scale software projects');
 
-
+--  tesing
 
     -- Insert Data into PLOs Table
 INSERT INTO PLOs (PLOID, PLO_Number, Description)
 VALUES 
-    ('PLO1', '(i)', 'Engineeringg Knowledge: An ability to apply knowledge of mathematics, science, engineering fundamentals and an engineering specialization to the solution of complex engineering problems.'),
+    ('PLO1', '(i)', 'Engineering Knowledge: An ability to apply knowledge of mathematics, science, engineering fundamentals and an engineering specialization to the solution of complex engineering problems.'),
     ('PLO2', '(ii)', 'Problem Analysis: An ability to identify, formulate, research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences and engineering sciences.'),
     ('PLO3', '(iii)', 'Design/Development of Solutions: An ability to design solutions for complex engineering problems and design systems, components or processes that meet specified needs with appropriate consideration for public health and safety, cultural, societal, and environmental considerations.'),
     ('PLO4', '(iv)', 'Investigation: An ability to investigate complex engineering problems in a methodical way including literature survey, design and conduct of experiments, analysis and interpretation of experimental data, and synthesis of information to derive valid conclusions.'),
